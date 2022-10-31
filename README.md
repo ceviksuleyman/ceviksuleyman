@@ -4,11 +4,6 @@
 
 <img height= "250" width="250" src=https://media.giphy.com/media/8WZeVq2y8VbiGLDIoa/giphy.gif align=right>
 
-<h3>About me⚡ </h3> 
-<p>
-<br>
-</p>
-
 <br>
 <h3> Tech I Use:</h3>
 
