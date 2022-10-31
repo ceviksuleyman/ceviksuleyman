@@ -2,6 +2,14 @@
 
 <h2>I'm Software Test Specialist</h2>
 
+<h3>About me⚡ </h3> 
+<p>Deep knowledge of quality assurance terminology, methods, and tools
+Superb computer skills, including database management
+Excellent analytical, problem-solving, and decision-making skills
+Proficiency in best practices for testing, version control, and defect management
+Understanding of agile/scrum methodology and how QA functions within it
+</p>
+
 <br>
 <h3> Tech I Use:</h3>
 
