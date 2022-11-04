@@ -44,10 +44,11 @@ Understanding of agile/scrum methodology and how QA functions within it
 [<img width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />][postgresql]
 [<img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/github/github.png">][github]
 
-<br/>
+
 ## Connect with me:
+
 [<img align="left" alt="linkedin | LinkedIn" width="36px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
-<br/>
+
 <br/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=ceviksuleyman&theme=radical">
