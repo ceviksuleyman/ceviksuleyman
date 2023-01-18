@@ -23,7 +23,7 @@ Understanding of agile/scrum methodology and how QA functions within it
 [intellij]: https://www.jetbrains.com/idea/download/#section=windows
 [testng]: https://testng.org/doc/
 [linkedin]: https://www.linkedin.com/in/ceviksuleyman/
-
+[gmail]: 	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 
 
 <h3> Tech I Use:</h3>
@@ -51,7 +51,7 @@ Understanding of agile/scrum methodology and how QA functions within it
 
 ## Connect with me:
 
-[<img align="left" alt="linkedin | LinkedIn" width="36px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
+[<img align="left" alt="linkedin | LinkedIn" width="36px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin][gmail]
 
 
 <br/>
