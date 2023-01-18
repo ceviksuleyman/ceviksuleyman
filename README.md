@@ -1,4 +1,4 @@
- <h1 align=center style="color:aqua" >Hi  👋 its Suleyman over here!</h1>
+ <h1 align=center style="color:red" >Hi  👋 its Suleyman over here!</h1>
 
 <h2>I'm Software Test Specialist</h2>
 
