@@ -51,7 +51,7 @@ Understanding of agile/scrum methodology and how QA functions within it
 
 ## Connect with me:
 
-[<img align="left" alt="linkedin | LinkedIn" width="36px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin][gmail]
+[<img align="left" alt="linkedin | LinkedIn" width="36px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
 
 
 <br/>
