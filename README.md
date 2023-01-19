@@ -3,6 +3,7 @@
 <h2>I'm Software Test Specialist</h2>
 
 <h3>About me⚡ </h3> 
+<h2></h2>
 <p>Deep knowledge of quality assurance terminology, methods, and tools
 Superb computer skills, including database management
 Excellent analytical, problem-solving, and decision-making skills
