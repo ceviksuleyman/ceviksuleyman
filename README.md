@@ -66,5 +66,5 @@ Understanding of agile/scrum methodology and how QA functions within it
       <img height="170em" src="https://awesome-github-stats.azurewebsites.net/user-stats/ceviksuleyman?cardType=github&theme=dark&Text=DD971A") />
       <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ceviksuleyman&layout=compact&langs_count=8&theme=dark&Text=DD971A"/>
  
-[![trophy](https://github-profile-trophy.vercel.app/?username=ceviksuleyman&theme=dark&Text)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ceviksuleyman&theme=monokai&Text)](https://github.com/ryo-ma/github-profile-trophy)
 
