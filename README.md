@@ -1,8 +1,8 @@
  <h1 align=center style="color:red" > Hi 👋 
  its Suleyman over here!</h1>
 
-<h2>⚡I'm Software Test Specialist</h2>
-<h3>⚡About me</h3> 
+<h2>⚡ I'm Software Test Specialist</h2>
+<h3>⚡ About me</h3> 
 <h2></h2>
 <p>Deep knowledge of quality assurance terminology, methods, and tools
 Superb computer skills, including database management
