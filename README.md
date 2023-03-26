@@ -62,15 +62,13 @@ Understanding of agile/scrum methodology and how QA functions within it
 <br>
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceviksuleyman&layout=compact&langs_count-16&theme=dracula"/><img src="https://github-readme-stats.vercel.app/api?username=ceviksuleyman&theme=radical">  
+<!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceviksuleyman&layout=compact&langs_count-16&theme=dracula"/><img src="https://github-readme-stats.vercel.app/api?username=ceviksuleyman&theme=radical"> --> 
  
-<p align="center">
+<!-- <p align="left">
       <img height="170em" src="https://awesome-github-stats.azurewebsites.net/user-stats/ceviksuleyman?cardType=github&theme=onedark&Text=DD971A") />
-      <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ceviksuleyman&layout=compact&langs_count=8&theme=onedark&Text=DD971A"/>
+      <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ceviksuleyman&layout=compact&langs_count=8&theme=onedark&Text=DD971A"/> -->
  
-[![trophy](https://github-profile-trophy.vercel.app/?username=ceviksuleyman&theme=juicyfresh&Text)](https://github.com/ryo-ma/github-profile-trophy)
-
- <div align="center">
+ <div align="left">
   <br>
   <a href="#">
     <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ceviksuleyman&show_icons=true&theme=vue-dark&count_private=true&bg_color=0d1117&hide_border=true"/>
@@ -79,3 +77,4 @@ Understanding of agile/scrum methodology and how QA functions within it
     <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceviksuleyman&langs_count=8&count_private=false&layout=compact&theme=vue-dark&bg_color=0d1117&hide_border=true"/>
   </a>
 </div> 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ceviksuleyman&theme=juicyfresh&Text)](https://github.com/ryo-ma/github-profile-trophy)
