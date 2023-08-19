@@ -50,6 +50,7 @@ Understanding of agile/scrum methodology and how QA functions within it
 	<code><img height="40" src="https://user-images.githubusercontent.com/25181517/184103699-d1b83c07-2d83-4d99-9a1e-83bd89e08117.png" alt="Selenium" title="Selenium"/></code>
 	<code><img height="40" src="https://user-images.githubusercontent.com/25181517/184117353-4b437677-c4bb-4f4c-b448-af4920576732.png" alt="Cucumber" title="Cucumber"/></code>
 	<code><img height="40" src="https://user-images.githubusercontent.com/68279555/200387386-276c709f-380b-46cc-81fd-f292985927a8.png" alt="Cypress" title="Cypress"/></code>
+	https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
 </div>
 
 ## Connect with me:
