@@ -13,21 +13,9 @@ Understanding of agile/scrum methodology and how QA functions within it
 
 <br>
 
-[vscode]: https://code.visualstudio.com/
-[java]: https://www.java.com/
-[selenium]: https://www.selenium.dev/
-[postgresql]: https://www.postgresql.org/
-[sql]: https://www.w3schools.com/sql/
-[html]: https://www.w3schools.com/html/
-[github]: https://github.com/ceviksuleyman
-[cucumber]: https://cucumber.io/
-[intellij]: https://www.jetbrains.com/idea/download/#section=windows
-[testng]: https://testng.org/doc/
-[linkedin]: https://www.linkedin.com/in/ceviksuleyman/
-[gmail]: 	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 
+# <h3 align="left"> Languages and Tools :</h3>
 
-* # <h3 align="left">Languages and Tools:</h3>
 <div align="center">
 	<code><img height="40" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code>
 	<code><img height="40" src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" alt="InteliJ" title="InteliJ"/></code>
@@ -55,8 +43,8 @@ Understanding of agile/scrum methodology and how QA functions within it
 
 ## Connect with me:
 <!--[<img align="left" alt="linkedin | LinkedIn" width="36px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]-->
-<p align="left">
-<a href="https://www.linkedin.com/in/ceviksuleyman/" target="blank"><img align="center" src="https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="ceviksuleyman" height="32" width="101" /></a>
+<p align="center">
+<a href="https://www.linkedin.com/in/ceviksuleyman/" target="blank"><img align="center" src="https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="ceviksuleyman" height="50" width="130" /></a>
 
 <br/>
 <br>
@@ -79,7 +67,6 @@ Understanding of agile/scrum methodology and how QA functions within it
   <a href="#">
     <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceviksuleyman&langs_count=8&count_private=false&layout=compact&theme=vue-dark&bg_color=0d1117&hide_border=true"/>
   </a>
-</div> -->
-  
+</div> --> 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ceviksuleyman&theme=juicyfresh&Text)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ceviksuleyman&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
