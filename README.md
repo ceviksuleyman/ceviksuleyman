@@ -1,4 +1,4 @@
- <h1 align=center style="color:red" > Hi 👋 
+ <h1 align=center style="color:green" > Hi 👋 
  its Suleyman over here!</h1>
 
 <h2>⚡ I'm Software Test Specialist</h2>
@@ -41,9 +41,10 @@ Understanding of agile/scrum methodology and how QA functions within it
     <code><img height="40" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" title="Python"/></code>
 </div>
 
-## 
 
-# Connect with me : <p align="center"><a href="https://www.linkedin.com/in/ceviksuleyman/" target="blank"><img align="center" src="https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="ceviksuleyman" height="50" width="130" /></a>
+
+# Connect with me :
+ <p align="left"><a href="https://www.linkedin.com/in/ceviksuleyman/" target="blank"><img align="center" src="https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="ceviksuleyman" height="40" width="113" /></a>
 
 <br/>
 <br>
